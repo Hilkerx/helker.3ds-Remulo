@@ -1,9 +1,4 @@
-import HelloWorld from "./HelloWorld"
-function App () {
-    return (
-        <div>
-        <HelloWorld />
-        </div>
-    );
+function HelloWorld() {
+    return <h1> Olá, React!</h1>;
 }
-export default App;
+export default HelloWorld;
