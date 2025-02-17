@@ -8,7 +8,7 @@ function Contador() {
             <button onClick={() => setCount(count + 1)}>Incrementar</button>
         </div>
 
-    )
+    );
 }
 
 export default Contador;

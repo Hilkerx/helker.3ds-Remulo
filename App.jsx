@@ -1,5 +1,5 @@
-import HelloWorld from "./HelloWorld"
-import Contador from "./contador";
+import HelloWorld from "./HelloWorld";
+import Contador from "./Contador";
 import Mensagem from "./mensagem";
 function App () {
     return (
@@ -10,3 +10,5 @@ function App () {
         </div>
     );
 }
+
+export default App;
